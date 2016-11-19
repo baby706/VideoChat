@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>1.jpg</file>
+        <file>picture1.jpg</file>
+        <file>主播标志.png</file>
+        <file>标志位.png</file>
+        <file>摄像头.png</file>
+        <file>登录界面.jpg</file>
+        <file>注册界面.jpg</file>
+        <file>主窗口背景.jpg</file>
+        <file>头像1.jpg</file>
+        <file>camera.jpg</file>
+        <file>图标.jpg</file>
+        <file>注册1.jpg</file>
+        <file>直播界面.jpg</file>
+        <file>麦克风.png</file>
+        <file>桌面.JPG</file>
+        <file>开关关.png</file>
+        <file>开关开.png</file>
+    </qresource>
+</RCC>

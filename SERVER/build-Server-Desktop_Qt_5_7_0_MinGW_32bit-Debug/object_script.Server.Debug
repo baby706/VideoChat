@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\MainWindow.o
+./debug\SocketInfo.o
+./debug\DllManager.o
+./debug\User.o
+./debug\UserHandle.o
+./debug\SocketManager.o
+./debug\LiveRoomList.o
+./debug\OneLiveRoom.o
+./debug\qrc_picture.o
+./debug\moc_MainWindow.o
+./debug\moc_SocketInfo.o
+);
